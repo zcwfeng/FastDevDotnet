@@ -1,0 +1,10 @@
+/Users/zcw/dev/c#/FastDevDotnet/bin/Debug/netcoreapp2.0/FastDevDotnet.deps.json
+/Users/zcw/dev/c#/FastDevDotnet/bin/Debug/netcoreapp2.0/FastDevDotnet.runtimeconfig.json
+/Users/zcw/dev/c#/FastDevDotnet/bin/Debug/netcoreapp2.0/FastDevDotnet.runtimeconfig.dev.json
+/Users/zcw/dev/c#/FastDevDotnet/bin/Debug/netcoreapp2.0/FastDevDotnet.dll
+/Users/zcw/dev/c#/FastDevDotnet/bin/Debug/netcoreapp2.0/FastDevDotnet.pdb
+/Users/zcw/dev/c#/FastDevDotnet/obj/Debug/netcoreapp2.0/FastDevDotnet.csproj.CoreCompileInputs.cache
+/Users/zcw/dev/c#/FastDevDotnet/obj/Debug/netcoreapp2.0/FastDevDotnet.AssemblyInfoInputs.cache
+/Users/zcw/dev/c#/FastDevDotnet/obj/Debug/netcoreapp2.0/FastDevDotnet.AssemblyInfo.cs
+/Users/zcw/dev/c#/FastDevDotnet/obj/Debug/netcoreapp2.0/FastDevDotnet.dll
+/Users/zcw/dev/c#/FastDevDotnet/obj/Debug/netcoreapp2.0/FastDevDotnet.pdb
